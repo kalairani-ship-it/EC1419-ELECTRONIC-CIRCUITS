@@ -24,14 +24,17 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## LT SPICE
 
-## Graph
+ Graph![1 c](https://github.com/user-attachments/assets/13e0181a-9f59-4e48-9193-7e333f0cf6a8)
+
+![1 g](https://github.com/user-attachments/assets/8e41040c-9a34-42ea-a6cf-88705402dd83)
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
+![1 r](https://github.com/user-attachments/assets/9108d91d-0f6e-4211-962a-8c85f5f5752a)
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 65dB**
 
-**BANDWIDTH =**
+**BANDWIDTH =69.9MHz**
