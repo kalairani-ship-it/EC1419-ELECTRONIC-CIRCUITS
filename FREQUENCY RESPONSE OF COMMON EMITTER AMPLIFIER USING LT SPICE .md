@@ -24,14 +24,14 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
+## LT SPICE
 
-## Graph
+Graph![1 c](https://github.com/user-attachments/assets/0eb48118-bd3a-4a71-9dad-c85af7a91f5e)
+
+![1 g](https://github.com/user-attachments/assets/32ca1c12-ef90-4bc5-97c2-d1e1f34a7e62)
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
-
-**BANDWIDTH =**
+![1 r](https://github.com/user-attachments/assets/445c7d41-8fec-4045-9b9a-7dfd29f392fa)
