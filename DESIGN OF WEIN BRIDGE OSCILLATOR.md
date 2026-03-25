@@ -13,13 +13,11 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## LT SPICE
+![2 cg](https://github.com/user-attachments/assets/e6348300-9a45-407b-8344-fd65538d54a8)
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+![2 r](https://github.com/user-attachments/assets/0c5ec00f-b4fe-4e5e-9290-3cd157ef8ef2)
 
-Practical frequency of Oscillation =
-
-
-Theoritical Frequency of Oscillation =
