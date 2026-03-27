@@ -8,5 +8,6 @@
 
 ## GRAPHS
 
+![6](https://github.com/user-attachments/assets/30d4c9de-94dc-4921-b8d6-c77b442afa57)
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
